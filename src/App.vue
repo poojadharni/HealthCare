@@ -25,5 +25,4 @@ import BackToTop from './pages/BackToTop.vue'
 * {
   font-family: "Work Sans";
 }
-
 </style>
