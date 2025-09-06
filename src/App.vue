@@ -8,7 +8,6 @@
       <router-view />
     </div>
 
-    <!-- Footer -->
     <Footer />
 
     <!-- Floating Buttons -->
@@ -24,6 +23,7 @@ import BackToTop from './pages/BackToTop.vue'
 
 <style>
 * {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans";
 }
+
 </style>

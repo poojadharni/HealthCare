@@ -228,7 +228,7 @@
 <section class="mt-4 relative w-full bg-cover bg-center" style="background-image: url('/images/bgDoctor.png');">
     <div class="absolute inset-0 bg-white bg-opacity-50"></div>
 
-    <div class="relative max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-8 px-6 py-12">
+    <div class="relative max-w-5xl mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-8 px-6 py-12">
         <!-- Left Side (Text) -->
         <div>
             <h2 class="text-[28px] font-bold text-[#1F2B6C] mb-4">
